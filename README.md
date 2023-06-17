@@ -18,7 +18,7 @@ Nothing to see here except all of this are just my side hobby project from my ea
 | Batch Script |
 
 | Other Skills (mostly basic and rarely use this) |
-|____|
+|-----------|
 | C++ Console |
 | C (Arduino)  |
 | Java Console |
