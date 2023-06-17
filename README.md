@@ -9,9 +9,18 @@ Nothing to see here except all of this are just my side hobby project from my ea
  # Skills
 
 
-| Common Skills | 
+| Common Skills (quite good but not an expert)| 
 | -------------|
-| PHP (Laravel (mostly use) /Yii2)      |
-| C# Console/Window Application based      |
+| PHP (Laravel (mostly use) )      |
+| C# (Console/Window Form)      |
+| Javascript (JQuery) |
+| Bootstrap 4/5 (Vanilla/MDBootstrap) |
 | Batch Script |
 
+| Other Skills (mostly basic and rarely use this) |
+| C++ Console |
+| C (Arduino)  |
+| Java Console |
+| Python Console |
+| Visual Basic (Console/Window Form) |
+|Yii2 Framework|
