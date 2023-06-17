@@ -14,5 +14,4 @@ Nothing to see here except all of this are just my side hobby project from my ea
 | PHP (Laravel (mostly use) /Yii2)      |
 | C# Console/Window Application based      |
 | Batch Script |
-| 
 
