@@ -4,8 +4,8 @@ Contact 📩: mohdabdulhakim01@gmail.com
 
 > Most of my project is private so just dm me 🙋‍♂️😁
 
-### My Solo Active Project 
-*(mostly locked due to need for login access, but feel free to visit)*
+### My Solo Active Project (Private in GitHub)
+*(most feature are locked due to need for login access and not open for public, but feel free to visit)*
 
 #### Pscyhology Department JPA
 * [ePsikologi-v2](https://www.interactive1.jpa.gov.my/epsikologi-v2)
