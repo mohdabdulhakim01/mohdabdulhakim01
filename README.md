@@ -1,6 +1,4 @@
-# Welcome to My Profile
-
-Hello, My name is Mohammad Abdul Hakim. I'm fullstack web developer (mostly backend) and mostly doing PHP based project. I'm also open to work and eager to explore any programming language or tech stack.
+Samekom/Hello, My name is Mohammad Abdul Hakim. I'm fullstack web developer (mostly backend) and mostly doing PHP based project. I'm also open to work and eager to explore any programming language or tech stack.
 
 Contact 📩: mohdabdulhakim01@gmail.com 
 
